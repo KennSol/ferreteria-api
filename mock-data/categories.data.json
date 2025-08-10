@@ -1,0 +1,12 @@
+export let categories = [
+  {"id": "1", "name": "Hand Tools"},
+  {"id": "2", "name": "Power Tools"},
+  {"id": "3", "name": "Painting Supplies"},
+  {"id": "4", "name": "Fasteners"},
+  {"id": "5", "name": "Electrical"},
+  {"id": "6", "name": "Plumbing"},
+  {"id": "7", "name": "Garden Tools"},
+  {"id": "8", "name": "Safety Equipment"},
+  {"id": "9", "name": "Hardware"},
+  {"id": "10", "name": "Building Materials"}
+];

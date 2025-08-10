@@ -1,0 +1,72 @@
+export let products = [
+  {
+    "id": "1",
+    "name": "Hammer",
+    "price": 15.99,
+    "categoryId": "1",
+    "stock": 100
+  },
+  {
+    "id": "2",
+    "name": "Screwdriver Set",
+    "price": 25.50,
+    "categoryId": "1",
+    "stock": 50
+  },
+  {
+    "id": "3",
+    "name": "Drill",
+    "price": 89.99,
+    "categoryId": "2",
+    "stock": 30
+  },
+  {
+    "id": "4",
+    "name": "Paint Roller",
+    "price": 12.75,
+    "categoryId": "3",
+    "stock": 80
+  },
+  {
+    "id": "5",
+    "name": "Wrench",
+    "price": 18.25,
+    "categoryId": "1",
+    "stock": 60
+  },
+  {
+    "id": "6",
+    "name": "Nails (1kg)",
+    "price": 5.99,
+    "categoryId": "4",
+    "stock": 200
+  },
+  {
+    "id": "7",
+    "name": "Saw",
+    "price": 35.50,
+    "categoryId": "1",
+    "stock": 40
+  },
+  {
+    "id": "8",
+    "name": "Tape Measure",
+    "price": 9.99,
+    "categoryId": "1",
+    "stock": 75
+  },
+  {
+    "id": "9",
+    "name": "Paint Brush",
+    "price": 4.99,
+    "categoryId": "3",
+    "stock": 100
+  },
+  {
+    "id": "10",
+    "name": "Screws (100 pack)",
+    "price": 7.99,
+    "categoryId": "4",
+    "stock": 150
+  }
+];
